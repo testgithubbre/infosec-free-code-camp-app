@@ -16,5 +16,14 @@
 		"express",
 		"freecodecamp"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/testgithubbre/infosec-free-code-camp-app.git"
+	},
+	"author": "",
+	"bugs": {
+		"url": "https://github.com/testgithubbre/infosec-free-code-camp-app/issues"
+	},
+	"homepage": "https://github.com/testgithubbre/infosec-free-code-camp-app#readme"
 }
